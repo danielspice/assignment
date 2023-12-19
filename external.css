@@ -1,0 +1,61 @@
+#container{
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+    background-color: black;
+    margin-bottom: 300px;
+}
+
+#rectangle{
+    height: 150px;
+    width: 400px;
+    background-color: crimson;
+    align-items: center;
+}
+#circle{
+    height: 100px;
+    width: 100px;
+    border-radius: 300px;
+    color: black;
+  margin-bottom: 150px;
+}
+  #square{
+    height: 100px;
+    width: 300px;
+    background-color: crimson;
+    ali gn-items: center;
+    margin-top: auto;       
+}
+#shape{
+    height: 100px;
+    width: 100px;
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+}

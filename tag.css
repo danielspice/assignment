@@ -1,0 +1,32 @@
+div{
+  width: 500px;
+    height: 200px;
+    background-color: lawngreen;
+    margin-top: 80px;
+}
+.top{
+    width: 500px;
+    margin-top: 550px;
+}
+.table{
+    width: 350px;
+    height: 40px;
+    border-radius: 40px;
+    margin-top: -80px;
+}
+.tab{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    margin-top: -900px;
+}
+.hot{
+    width: 40px;
+    height: 40px;
+    border-radius: 100px;
+    margin-top: -90;
+}
+body{
+    background-color: blueviolet;
+    width: 50px;
+}
